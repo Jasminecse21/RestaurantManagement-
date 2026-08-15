@@ -12,6 +12,10 @@ A simple and responsive website that provides information about a restaurant, fo
 - 🎨 Simple and Attractive User Interface
 - 📱 Responsive Design
 
+## 🔗 Live Demo
+
+[View Live Project](https://jasminecse21.github.io/RestaurantManagement-/)
+
 ## 🛠️ Technologies Used
 
 - HTML5
